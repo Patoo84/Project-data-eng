@@ -46,4 +46,4 @@ Create dashboard with 3 Tile (1 Bar & 2 Pie) from bike trip dataset year 2020
 - Distribution by usertype
 - Monthly summary trip
 
-[Dashboard]()
+[Dashboard](https://datastudio.google.com/u/0/reporting/c287a1ac-9ed8-42fe-8082-332ed8ddc51e/page/K78oC)
