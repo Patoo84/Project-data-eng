@@ -6,12 +6,11 @@ Dataset used from Ecobici Trip mexico City Year 2020
 Citi Bike Trip [Dataset](https://www.ecobici.cdmx.gob.mx/sites/default/files/data/usages/2020-01.csv)
 
 Dataset format 
-Edad_Usuario	Bici	Ciclo_Estacion_Retiro	Fecha_Retiro	Hora_Retiro	Ciclo_Estacion_Arribo	Fecha_Arribo	Hora_Arribo
-- Trip Duration (seconds)
-- Start Time Trip
-- Start Date Trip
-- Stop Time Trip
-- Stop Date Trip
+
+- Hora_Retiro is Start Time Trip
+- Fecha_Retiro is Start Date Trip
+- Hora_Arribo is Stop Time Trip
+- Fecha_Arribo is Stop Date Trip
 - Ciclo_Estacion_Retiro is Start Station id
 - Ciclo_Estacion_Arribo is End Station id
 - Bici is Bike ID
