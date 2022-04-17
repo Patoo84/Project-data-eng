@@ -2,22 +2,21 @@
 
 # Dataset
 
-Dataset used from Citi Bike Trip New York City Year 2020
+Dataset used from Ecobici Trip mexico City Year 2020
 Citi Bike Trip [Dataset](https://www.ecobici.cdmx.gob.mx/sites/default/files/data/usages/2020-01.csv)
 
 Dataset format 
-
+Edad_Usuario	Bici	Ciclo_Estacion_Retiro	Fecha_Retiro	Hora_Retiro	Ciclo_Estacion_Arribo	Fecha_Arribo	Hora_Arribo
 - Trip Duration (seconds)
-- Start Time and Date
-- Stop Time and Date
-- Start Station Name
-- End Station Name
-- Station ID
-- Station Lat/Long
-- Bike ID
-- User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
-- Gender (Zero=unknown; 1=male; 2=female)
-- Year of Birth
+- Start Time Trip
+- Start Date Trip
+- Stop Time Trip
+- Stop Date Trip
+- Ciclo_Estacion_Retiro is Start Station id
+- Ciclo_Estacion_Arribo is End Station id
+- Bici is Bike ID
+- Genario Usario  meaning Gender (male; female)
+- Edad Usario age of the user
 
 # Problem Statement
 
