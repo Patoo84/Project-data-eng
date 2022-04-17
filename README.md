@@ -41,7 +41,7 @@ Data pipeline used with batch which is run periodically (monthly)
 
 # Dashboard
 
-Create dashboard with 3 Tile (1 Bar & 2 Pie) from bike trip dataset year 2020
+Create dashboard with 3 Tile (1 Bar & 1 Pie & 1 Table) from bike trip dataset year 2020
 - Summary most popular route taken by gender
 - Distribution by usertype
 - Monthly summary trip
